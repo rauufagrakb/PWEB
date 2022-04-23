@@ -1,0 +1,26 @@
+.header {
+  background: linear-gradient(to right, #414efe, #00FFFF);
+  display: flex;
+  flex-wrap: wrap;
+}
+
+div {
+  width: 100%;
+  position: relative;
+}
+
+@media (min-width: 992px) {
+  .col-lg-4 {
+    flex: 0 0 40%;
+    max-width: 40%;
+  }
+
+  .col-lg-8 {
+    flex: 0 0 60%;
+    max-width: 60%;
+  }
+
+  .header-area {
+    margin-top: -3px;
+  }
+}

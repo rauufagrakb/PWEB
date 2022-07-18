@@ -1,0 +1,32 @@
+/*Required*/
+
+
+#yogyakarta {
+    width: 65px;
+    height: 80px;
+}
+
+#Pancasila {
+    height: 300px;
+}
+
+/* BERITA */
+#berita {
+    padding: 20px 30px 10px 30px;
+    margin-bottom: 50px;
+}
+
+/* modal */
+.modal-body .email {
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.news-1,
+.news-2,
+.news-3 {
+    padding: 20px 0 20px 0;
+    margin-bottom: 20px;
+}
+
+/* Peta */
